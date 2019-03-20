@@ -20,4 +20,4 @@ Peak over threshold (PoT) methods
 Multivariate Distributions: Basics, EDA, and Models/Estimation
 
 ### Lecture 07
-
+Portfolio Theory - Classical and CAPM-type
