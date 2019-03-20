@@ -21,3 +21,6 @@ Multivariate Distributions: Basics, EDA, and Models/Estimation
 
 ### Lecture 07
 Portfolio Theory - Classical and CAPM-type
+
+### Lecture 08
+Introduction to Time Series
