@@ -26,7 +26,10 @@ Portfolio Theory - Classical and CAPM-type
 Introduction to Time Series
 
 ### Lecture 09
+Introduction to ARCH/GARCH
 
 ### Lecture 10
+Advanced Topics in GARCH Time Series Analysis
 
 ### Lecture 11
+Cointegration and Statistical Arbitrage
