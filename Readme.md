@@ -24,3 +24,9 @@ Portfolio Theory - Classical and CAPM-type
 
 ### Lecture 08
 Introduction to Time Series
+
+### Lecture 09
+
+### Lecture 10
+
+### Lecture 11
